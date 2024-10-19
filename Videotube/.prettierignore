@@ -1,0 +1,5 @@
+*.env
+.env
+/node_modules
+# iska bhi maker hota hai 
+# this so that it doesnt change anything in given files 

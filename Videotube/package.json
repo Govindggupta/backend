@@ -1,0 +1,19 @@
+{
+  "name": "videotube",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "Govind Gupta",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.3.3"
+  },
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
